@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Esrat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Esrat\\.nuget\\packages"
+    ]
+  }
+}
